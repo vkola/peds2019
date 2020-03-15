@@ -1,6 +1,6 @@
 # Quantifying the nativeness of antibody sequences using long short-term memory networks
 
-This work is published in Protein Engineering Design & Selection journal (https://academic.oup.com/peds/advance-article/doi/10.1093/protein/gzz031/5554642).
+This work is published in *Protein Engineering Design & Selection* (https://doi.org/10.1093/protein/gzz031).
 
 <img src="Figure1.png" width="600"/> 
 
